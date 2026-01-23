@@ -1,5 +1,5 @@
 # digit-recognizer
-A simple neural network classifier to identify digits from 0 to 9, trained on the MNIST dataset. I made this for fun and educational purposes.
+A simple neural network classifier to identify draw digits from 0 to 9, trained on the MNIST dataset. I made this for fun and educational purposes.
 
 Made using only numpy and pygame. The network itself consists of two hidden layers, with 256 and 64 hidden units respectively. The training algorithm uses mini-batch gradient descent enabling the model to achieve 98.13% accuracy on the MNIST testing data.
 
